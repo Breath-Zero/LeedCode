@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="8215d25a-6c89-4f54-a4c4-58bcbcab5afd" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="8215d25a-6c89-4f54-a4c4-58bcbcab5afd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../【105】【从前序与中序遍历序列构造二叉树。】/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../【105】【从前序与中序遍历序列构造二叉树。】/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【106】【从中序与后序遍历序列构造二叉树】.iml" afterDir="false" />
+    </list>
+>>>>>>> cfd60db4eba06f150cc58a02cd5448f21d9f16c2
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,10 +26,16 @@
     <session id="-810324855">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+<<<<<<< HEAD
           <entry key="project.closed" value="2" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.79" value="1" />
           <entry key="project.opened" value="2" />
+=======
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+>>>>>>> cfd60db4eba06f150cc58a02cd5448f21d9f16c2
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -42,12 +61,25 @@
     </session>
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
               <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+=======
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+              <folding>
+                <element signature="e#383#384#0" expanded="true" />
+                <element signature="e#406#407#0" expanded="true" />
+              </folding>
+>>>>>>> cfd60db4eba06f150cc58a02cd5448f21d9f16c2
             </state>
           </provider>
         </entry>
@@ -88,7 +120,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="PackagesPane" />
+=======
+>>>>>>> cfd60db4eba06f150cc58a02cd5448f21d9f16c2
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -100,8 +135,14 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="AndroidView" />
       <pane id="Scope" />
+=======
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+>>>>>>> cfd60db4eba06f150cc58a02cd5448f21d9f16c2
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -148,11 +189,15 @@
       <option name="presentableId" value="Default" />
       <updated>1544451606739</updated>
       <workItem from="1544451610872" duration="209000" />
+<<<<<<< HEAD
       <workItem from="1544612139884" duration="104000" />
+=======
+>>>>>>> cfd60db4eba06f150cc58a02cd5448f21d9f16c2
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="313000" />
   </component>
   <component name="ToolWindowManager">
@@ -160,6 +205,14 @@
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10438729" />
+=======
+    <option name="totallyTimeSpent" value="209000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.102874435" />
+>>>>>>> cfd60db4eba06f150cc58a02cd5448f21d9f16c2
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -198,8 +251,17 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="270">
           <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+=======
+        <state relative-caret-position="243">
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <folding>
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+          </folding>
+>>>>>>> cfd60db4eba06f150cc58a02cd5448f21d9f16c2
         </state>
       </provider>
     </entry>
