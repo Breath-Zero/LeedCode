@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0131b64-b423-45f9-9482-b03fceda4a68" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../【100】【相同的树】/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../【100】【相同的树】/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../【100】【相同的树】/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../【100】【相同的树】/【100】【相同的树】.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ec4e5955-47a8-4f45-8912-7840e6b8e71c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/【94】【二叉树的中序遍历】.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【100】【相同的树】/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../【100】【相同的树】/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../【144】【二叉树的前序遍历】/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../【144】【二叉树的前序遍历】/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,15 +19,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="2135120975">
+    <session id="-227621058">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.103" value="1" />
-          <entry key="project.open.time.59" value="1" />
-          <entry key="project.open.time.60" value="1" />
-          <entry key="project.open.time.68" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -39,25 +39,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="16" />
+          <entry key="java" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="16" />
+          <entry key="JAVA" value="13" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="507">
-              <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+            <state relative-caret-position="1101">
+              <caret line="66" column="22" lean-forward="true" selection-start-line="66" selection-start-column="22" selection-end-line="66" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#218#219#0" expanded="true" />
+                <element signature="e#241#242#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -99,25 +101,26 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="【144】【二叉树的前序遍历】" type="b2602c69:ProjectViewProjectNode" />
-              <item name="【144】【二叉树的前序遍历】" type="462c0819:PsiDirectoryNode" />
+              <item name="【94】【二叉树的中序遍历】" type="b2602c69:ProjectViewProjectNode" />
+              <item name="【94】【二叉树的中序遍历】" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545316812406" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -133,31 +136,42 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="【94】【二叉树的中序遍历】" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c0131b64-b423-45f9-9482-b03fceda4a68" name="Default Changelist" comment="" />
-      <created>1544703306481</created>
+      <changelist id="ec4e5955-47a8-4f45-8912-7840e6b8e71c" name="Default Changelist" comment="" />
+      <created>1545316474910</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1544703306481</updated>
-      <workItem from="1544703366468" duration="454000" />
-      <workItem from="1544961362861" duration="362000" />
-      <workItem from="1545053159329" duration="677000" />
-      <workItem from="1545216788793" duration="323000" />
+      <updated>1545316474910</updated>
+      <workItem from="1545316482721" duration="299000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1816000" />
+    <option name="totallyTimeSpent" value="299000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.06354009" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.102874435" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -196,10 +210,12 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+        <state relative-caret-position="1101">
+          <caret line="66" column="22" lean-forward="true" selection-start-line="66" selection-start-column="22" selection-end-line="66" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
           </folding>
         </state>
       </provider>
