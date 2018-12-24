@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0c0f25a-dec8-45c4-9f79-4373afcd1e7b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../【94】【二叉树的中序遍历】/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../【94】【二叉树的中序遍历】/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../【94】【二叉树的中序遍历】/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../【94】【二叉树的中序遍历】/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../【94】【二叉树的中序遍历】/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../【94】【二叉树的中序遍历】/【94】【二叉树的中序遍历】.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../【144】【二叉树的前序遍历】/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../【144】【二叉树的前序遍历】/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c0c0f25a-dec8-45c4-9f79-4373afcd1e7b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,10 +13,11 @@
     <session id="-784475211">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.55" value="1" />
+          <entry key="project.open.time.57" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -86,7 +78,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-77" />
     <option name="width" value="841" />
     <option name="height" value="728" />
@@ -98,6 +90,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -109,7 +102,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -144,16 +136,17 @@
       <updated>1545217116731</updated>
       <workItem from="1545217120742" duration="196000" />
       <workItem from="1545315245841" duration="1141000" />
+      <workItem from="1545360333276" duration="635000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1337000" />
+    <option name="totallyTimeSpent" value="1972000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10438729" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10590015" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
